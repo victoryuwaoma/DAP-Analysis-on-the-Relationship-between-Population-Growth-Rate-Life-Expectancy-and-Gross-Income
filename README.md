@@ -12,11 +12,11 @@ For the appliction to run on your local machine, you would need to install the f
 3. Neo4j
 
 ## 📥 Installation
-Clone this repo
+1. Clone this repo
 
-or
+   or
 
-Open Git Bash or Terminal
+2. Open Git Bash or Terminal
 
     $ git clone https://github.com/victoryuwaoma/DAP-Project
 
