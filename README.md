@@ -18,6 +18,6 @@ For the appliction to run on your local machine, you would need to install the f
 
 2. Open Git Bash or Terminal
 
-    $ git clone https://github.com/victoryuwaoma/DAP-Project
+       $ git clone https://github.com/victoryuwaoma/DAP-Project
 
 Happy coding! 🧡
