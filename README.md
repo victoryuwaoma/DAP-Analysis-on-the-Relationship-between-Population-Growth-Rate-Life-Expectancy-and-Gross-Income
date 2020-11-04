@@ -18,6 +18,6 @@ or
 
 Open Git Bash or Terminal
 
-    $ git clone https://github.com/victoryuwaoma/DAPA-Project
+    $ git clone https://github.com/victoryuwaoma/DAP-Project
 
 Happy coding! 🧡
